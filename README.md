@@ -1,4 +1,4 @@
-[`pneuma` is a breath of fresh air][penuma].
+[`pneuma` is a breath of fresh air][pneuma].
 
 `pneuma` is an experiment in learning Go with a focus on networking.  It
 is heavily inspired by projects like [`nornir`][nornir]
